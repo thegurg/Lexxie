@@ -11,3 +11,6 @@ Movie Section
 Search Section
 
 <img width="1877" height="943" alt="image" src="https://github.com/user-attachments/assets/b94f3ab6-0334-4493-bdb4-4fe8bbe3e6a4" />
+
+---------------------
+please change the apiKey to your TMDB API in /lib/core/config/api_config.dart
