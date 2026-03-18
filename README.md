@@ -1,4 +1,4 @@
-# goyleex
+# Lexxie
 
 A new Flutter project.
 
