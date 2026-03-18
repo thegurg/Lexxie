@@ -1,17 +1,13 @@
 # Lexxie
 
-A new Flutter project.
+Main Page
 
-## Getting Started
+<img width="1876" height="944" alt="image" src="https://github.com/user-attachments/assets/bbcbf6df-71f4-4428-8308-70e1d9cc3c74" />
 
-This project is a starting point for a Flutter application.
+Movie Section
 
-A few resources to get you started if this is your first Flutter project:
+<img width="1873" height="955" alt="image" src="https://github.com/user-attachments/assets/9d74d280-6630-4e0b-b158-87ce9fc6ffbc" />
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+Search Section
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="1877" height="943" alt="image" src="https://github.com/user-attachments/assets/b94f3ab6-0334-4493-bdb4-4fe8bbe3e6a4" />
