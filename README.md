@@ -1,5 +1,7 @@
 # Lexxie
 
+link https://comfy-otter-5b34d9.netlify.app/
+
 Main Page
 
 <img width="1876" height="944" alt="image" src="https://github.com/user-attachments/assets/bbcbf6df-71f4-4428-8308-70e1d9cc3c74" />
